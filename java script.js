@@ -12,7 +12,7 @@ README.md
 
 
 
-
+<script src="js.js"></script>
 
 
 const video = document.getElementById('video');
